@@ -54,7 +54,9 @@ router.put("/:id", async (req, res) => {
   // update a category by its `id` value
   try {
     const categoryData = await Category.findByPk(req.params.id, {
-      include: [Product],
+      where: {
+        id: req.params.id,
+      },
     });
 
     if (!categoryData) {
