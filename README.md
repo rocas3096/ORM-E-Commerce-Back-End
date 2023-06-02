@@ -43,6 +43,10 @@ To deploy this code locally, follow these steps:
    - Use the provided GET routes in Insomnia to retrieve data for categories, products, or tags. The data will be displayed in formatted JSON.
    - Test the API POST, PUT, and DELETE routes in Insomnia to create, update, and delete data in the database.
 
+A demo video is available to demonstrate the functionality:
+
+[![Demo of ORM E-Commerce Back End demonstrating functionality](https://drive.google.com/thumbnail?id=1Koshw6DjiQZ2XIRCIEwpmK0HaHApPLAo)](https://drive.google.com/uc?id=1Koshw6DjiQZ2XIRCIEwpmK0HaHApPLAo)
+
 ## Technologies Used
 
 - Express.js
