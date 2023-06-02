@@ -83,6 +83,7 @@ The API provides the following routes:
 This project is licensed under the MIT License.
 
 ## Contributions
+Starter Code by Xandromus [https://github.com/Xandromus] & repo [https://github.com/coding-boot-camp/fantastic-umbrella]
 
 Contributions to this project are welcome. To contribute, please follow these steps:
 
